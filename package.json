@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bedrock-protocol": "^3.36.0",
+    "readline": "^1.3.0"
+  },
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.5.7"
+  }
+}
